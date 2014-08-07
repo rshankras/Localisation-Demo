@@ -1,0 +1,27 @@
+
+/* Class = "IBUILabel"; text = "Date :"; ObjectID = "0sh-CK-26C"; */
+"0sh-CK-26C.text" = "Date :";
+
+/* Class = "IBUILabel"; text = "Number :"; ObjectID = "AeO-ot-XWj"; */
+"AeO-ot-XWj.text" = "Number :";
+
+/* Class = "IBUILabel"; text = "text"; ObjectID = "PH7-nj-d7i"; */
+"PH7-nj-d7i.text" = "text";
+
+/* Class = "IBUILabel"; text = "number"; ObjectID = "XDV-eF-gQk"; */
+"XDV-eF-gQk.text" = "number";
+
+/* Class = "IBUILabel"; text = "Image :"; ObjectID = "bvG-x6-Tpx"; */
+"bvG-x6-Tpx.text" = "Image :";
+
+/* Class = "IBUILabel"; text = "date"; ObjectID = "dfQ-SC-sPe"; */
+"dfQ-SC-sPe.text" = "date";
+
+/* Class = "IBUILabel"; text = "Text :"; ObjectID = "ePK-Iu-1rP"; */
+"ePK-Iu-1rP.text" = "Text :";
+
+/* Class = "IBUILabel"; text = "currency"; ObjectID = "gx1-nq-IbI"; */
+"gx1-nq-IbI.text" = "currency";
+
+/* Class = "IBUILabel"; text = "Currency :"; ObjectID = "tVi-KF-Xgb"; */
+"tVi-KF-Xgb.text" = "Currency :";
